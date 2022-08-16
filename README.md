@@ -4,4 +4,7 @@ In this repo I'll building a management system for a company, where they can org
 First task: In JS file I created Employee constructor and instance it to create objects.
 Also, in HTML file, I created header contains navbar, footer contains and some social media icons with copyright using Bootstrap.
 
+Second task: Create a table using JavaSicript, and fill it by employee information.
+
+
 [View Live Demo](https://abdullah97sh.github.io/management-system/)
